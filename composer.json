@@ -1,6 +1,7 @@
 {
     "name": "hexlet/code",
     "description": "Project #1 in PHP-Developer",
+    "license": "MIT",
     "type": "project",
     "authors": [
         {
@@ -8,5 +9,8 @@
             "email": "artemadilev@ya.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "bin": [
+        "bin/brain-games"
+    ]
 }
